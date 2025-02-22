@@ -1,4 +1,4 @@
-![cv](https://raw.githubusercontent.com/idimetrix/cv/main/apps/web/public/full.png)
+![cv](https://i.ibb.co.com/kstscBSt/Full-stack-web-developer.jpg)
 
 # Free CV Maker with Print-Friendly Responsive Layout [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/idimetrix/cv)
 
@@ -21,13 +21,13 @@ Compatible with Applicant Tracking Systems (ATS).
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/idimetrix/cv.git
+   git clone https://github.com/mohammadabdullahrihan/CV-Maker.git
    ```
 
 2. Move to the cloned directory
 
    ```bash
-   cd cv
+   cd CV-Maker
    ```
 
 3. Install dependencies:
@@ -43,7 +43,3 @@ Compatible with Applicant Tracking Systems (ATS).
    ```
 
 5. Open the [Config file](./apps/web/constants/index.tsx) and make changes
-
-# License
-
-[MIT](https://choosealicense.com/licenses/mit/)
